@@ -1,2 +1,2 @@
-hwy hai
+
 print("hello world")
