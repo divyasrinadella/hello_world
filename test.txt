@@ -2,4 +2,4 @@
 hey iam sri new
 
 print("hello world")
->>>>>>> new
+
